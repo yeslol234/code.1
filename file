@@ -1,0 +1,16 @@
+name: Blank snippet
+description: HMMM
+host: WORD
+api_set: {}
+script:
+  content: ''
+  language: typescript
+template:
+  content: |-
+    <button onclick="window.location.href='https://w3docs.com';'">
+    click me! </button>
+  language: html
+style:
+  content: ''
+  language: css
+libraries: |+
